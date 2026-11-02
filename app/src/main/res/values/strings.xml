@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Composable Browser</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="go">Go</string>
+</resources>
