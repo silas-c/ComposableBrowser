@@ -19,4 +19,5 @@ Open in Android Studio, or use JDK 21 and an Android SDK:
 
 The device test requires internet access and checks that `wikipedia.com` loads
 in the embedded WebView. Verified on an Android 15 emulator; the bundled
-Compose test library is incompatible with the Android 17 emulator. Review the app before submitting the repo URL on Canvas.
+Compose test library is incompatible with the Android 17 emulator. The emulator reported graphics-surface errors, so its blank screenshots could
+not verify appearance; review the app visually in Android Studio before submission.
